@@ -10,21 +10,21 @@ Implication (False case)
 Bitwise 
 Considder one bit at a time and do a boolean result of each.
 
-• & and
-• && or
+* & and
+* && or
 
 Be able to add binary!! (quiz next week)
 
 ## Week 3:
-• Sets
-• Set Notation
+* Sets
+* Set Notation
 
 ## Week4:
-• multiply matricies
-• converting from matrix to graph and vice versa
-• graphs x4 brute force find shortest path
-◦ dont have to start at position A, can start at any node
-◦ will be only x4 nodes
-• adjacency lists – use dijkstra’s algorithm
+* multiply matricies
+* converting from matrix to graph and vice versa
+* graphs x4 brute force find shortest path
+    * dont have to start at position A, can start at any node
+    * will be only x4 nodes
+* adjacency lists – use dijkstra’s algorithm
 
 ### Please submit a pull request if you would like to add more info to this cooperative file. :) 
